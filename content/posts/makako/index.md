@@ -17,3 +17,5 @@ footnotes = "**Badabing** *Badabong*"
 ##### Der Affe macht Dreck
 
 ###### Der Affe ist weg
+
+![](https://semo.de/wp-content/uploads/2018/08/MKV-07SY04.jpg "Wie gehts wie stehts")
