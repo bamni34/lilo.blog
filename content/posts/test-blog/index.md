@@ -18,3 +18,9 @@ footnotes = "Mango Kirsche Mango"
 ##### Random
 
 ###### **Random**
+
+{{<box>}}
+
+DER MAULWURf
+
+{{</box>]}}
