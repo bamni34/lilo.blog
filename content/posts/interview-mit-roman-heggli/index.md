@@ -4,6 +4,7 @@ date = "2024-03-21"
 draft = false
 pinned = false
 tags = ["LGBTQAI+", "Pride", "Gesellschaft"]
+image = "cecilie-johnsen-g8cxfhkupdu-unsplash-1-.jpg"
 description = "Roman ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Geschäftsleiter bei Pink Cross, die Schweizer Dachorganisation für homosexuelle und bisexuelle Männer. In diesem Interview erzählt er über die allgemeine Lage bezüglich der Akzeptanz gegenüber queeren Menschen in der Schweiz, und was er sich für die Community in Zukunft wünscht."
 +++
 {{<box>}}
