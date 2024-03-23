@@ -1,27 +1,23 @@
 +++
-title = "Interview mit Roman Heggli"
+title = "Nach der Ehe für Alle alles erreicht? Ein Interview mit Roman Heggli. "
 date = "2024-03-21"
 draft = false
 pinned = false
 tags = ["LGBTQAI+", "Pride", "Gesellschaft"]
+description = "Roman ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Geschäftsleiter bei Pink Cross, die Schweizer Dachorganisation für homosexuelle und bisexuelle Männer. In diesem Interview erzählt er über die allgemeine Lage bezüglich der Akzeptanz gegenüber queeren Menschen in der Schweiz, und was er sich für die Community in Zukunft wünscht."
 +++
-Roman ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Geschäftsleiter bei Pink Cross, die Schweizer Dachorganisation für homosexuelle und bisexuelle Männer. In diesem Interview erzählt er über die allgemeine Lage bezüglich der Akzeptanz gegenüber queeren Menschen in der Schweiz, und was er sich für die Community in Zukunft wünscht. 
-
 {{<box>}}
 
-Name: Roman Heggli
-
-Alter: 33
-
-Wohnort: Luzern
-
-Beruf: Seit 2018 Geschäftsleiter von Pink Cross
+* Name: Roman Heggli
+* Alter: 33
+* Wohnort: Luzern
+* Beruf: Seit 2018 Geschäftsleiter bei Pink Cross
 
 {{</box>}}
 
 Das Büro von Pink Cross befindet sich im dritten Stock eines alten Gebäudes an der Monbijoustrasse, gleich neben der Tramstation. Es ist ein bescheidenes Büro mit mehreren Räumen, in denen Mitarbeitende von Pink Cross fleissig arbeiteten. Roman und ich sprachen in einem Besprechungsraum mit einem grossen Tisch in der Mitte. An der Wand des Zimmers hängen diverse Plakate und Flyer von Initiativen und Events. Im Stockwerk über uns musizierte jemand, was uns während unserem Gespräch aber nicht störte.
 
-![Roman Heggli, vor einem Poster für den Diskriminierungschutz. ](microsoftteams-image-12-.png)
+![Roman Heggli, im Besprechungsraum vor einem Poster für den Diskriminierungschutz. ](microsoftteams-image-12-.png)
 
 **Könnten Sie mir allgemein etwas über Pink Cross erzählen?**
 
@@ -31,9 +27,13 @@ Pink Cross ist der Dachverband der schwulen und bisexuellen Männer in der Schwe
 
 Pink Cross ist jetzt gut 30 Jahre alt und die Ehe für Alle war schon seit Anfang an das grösste Thema. Bereits bei der Gründung wurde gleich eine Petition gestartet, zuerst für die eingetragene Partnerschaft für queere Menschen und inzwischen auch die Ehe für Alle. Ebenfalls haben wir auch den Diskriminierungsschutz erreicht, das heisst, wir sind jetzt tatsächlich vor Diskriminierung und vor öffentlichem Aufruf zu Hass gegen Lesben, Schwule und Bisexuelle geschützt und können uns dagegen wehren.
 
+> "Der Druck muss von der Gesellschaft kommen, sonst bewegt sich die Politik nicht."
+>
+> \-Roman Heggli
+
 **Wie hat sich Pink Cross für die Ehe für Alle beteiligt? Haben Sie Demos veranstaltet, oder Artikel veröffentlicht?**
 
-Hey, alles mögliche, da waren wir wirklich auf jeder Ebene aktiv. Bei sowas müssen wir die Community immer informieren, sensibilisieren und mitnehmen. Wir müssen viel in die Öffentlichkeit gehen, uns zeigen, im Fernseher, auf Social Media, überall. Wir wollen zeigen, warum wir das alles brauchen und wollen, und wo das Problem liegt. Meinen Erfahrungen nach müssen wir die Leute wirklich informieren, um was es geht, wenn wir ein Anliegen haben, damit wir politisch etwas erreichen können. Wir müssen die gesellschaftliche Diskussion prägen, denn der Druck muss von der Gesellschaft kommen, sonst bewegt sich die Politik nicht. 
+Hey, alles mögliche, da waren wir wirklich auf jeder Ebene aktiv. Bei sowas müssen wir die Community immer informieren, sensibilisieren und mitnehmen. Wir müssen viel in die Öffentlichkeit gehen, uns zeigen, im Fernseher, auf Social Media, überall. Wir wollen zeigen, warum wir das alles brauchen und wollen, und wo das Problem liegt. Meinen Erfahrungen nach müssen wir die Leute wirklich informieren, um was es geht, wenn wir ein Anliegen haben, damit wir politisch etwas erreichen können.
 
 **Und wie würden Sie allgemein die Situation bezüglich Akzeptanz der LGBTQAI+ Community in Bern einschätzen?**
 
@@ -45,7 +45,11 @@ Solche Abstimmungen oder Kampagnen sind immer etwas zweischneidig. Einerseits is
 
 **Denken Sie, es könnten irgendwelche konkrete Massnahmen ergriffen werden, um die LGBTQ+ Community von dieser Intoleranz besser zu schützen?**
 
-Ja, wenn ich das so genau wüsste, gell, dann hätten wir es wohl schon gemacht. Also bei den Schulen ansetzen wäre auf jeden etwas vom wichtigste. Wir arbeiten gerade auch an einem Zivilcourage Projekt, was wir von den Leuten auch wirklich fördern möchten. Es ist wichtig, dass wir immer wieder aufs Tapet bringen, dass wir alle brauchen und sie auch in die Verantwortung nehmen. Ausserdem braucht es auch staatliche Massnahmen, beispielsweise braucht es noch einen Diskriminierungsschutz am Arbeitsplatz für Lesben, Schwule und Bisexuelle. Und schlussendlich sind Konversionstherapien, oder Homoheilungen, mit dem Ziel, sexuelle Orientierungen oder Geschlechtsidentitäten zu heilen, immer noch erlaubt. Das zeigt, dass wir als Gesellschaft das alles immer noch als etwas komisches ansehen, und daher wird die Akzeptanz auch nicht besser.
+Ja, wenn ich das so genau wüsste, gell, dann hätten wir es wohl schon gemacht. Also bei den Schulen ansetzen wäre auf jeden Fall etwas vom wichtigste. Wir arbeiten gerade auch an einem Zivilcourage Projekt, was wir von den Leuten auch wirklich fördern möchten. Es ist wichtig, dass wir immer wieder aufs Tapet bringen, dass wir alle brauchen und sie auch in die Verantwortung nehmen. Ausserdem braucht es auch staatliche Massnahmen, beispielsweise braucht es noch einen Diskriminierungsschutz am Arbeitsplatz für Lesben, Schwule und Bisexuelle. Und schlussendlich sind Konversionstherapien, oder Homoheilungen, mit dem Ziel, sexuelle Orientierungen oder Geschlechtsidentitäten zu heilen, immer noch erlaubt. Das zeigt, dass wir als Gesellschaft das alles immer noch als etwas komisches ansehen, und daher wird die Akzeptanz auch nicht besser.
+
+> "Es ist die Vielfalt der Community, die nicht sichtbar ist."
+>
+> \-Roman Heggli
 
 **Und wie ist es mit der Sichtbarkeit von queeren Menschen in der Politik und Medien aus der Schweiz? Denken Sie, sie werden gut repräsentiert oder wünschen Sie sich da noch mehr?**
 
@@ -53,7 +57,7 @@ Grundsätzlich haben wir eine grosse Sichtbarkeit in den letzten Jahren erreicht
 
 **Was denken Sie über die Repräsentation von queeren Jugendlichen in Bern? Gibt es ausreichende Unterstützungssysteme oder Ressourcen für sie?**
 
-Nein, absolut nicht. Es gibt gute Initiativen, zum Beispiel die Milchjugend, die regelmässig einmal im Monat in Bern die Milchbar organisiert. Das finde ich mega wichtige Treffpunkte um andere queere Menschen kennenzulernen und das Selbstbewusstsein zu stärken. Für queere Jugendliche, die sich beispielsweise outen und von ihren Eltern deshalb nicht mehr akzeptiert werden, gibt es kaum Unterschlupfmöglichkeiten, wo sie schnell mal paar Wochen unterkommen könnten, um das Ganze etwas setzen zu lassen und es später wieder zu versuchen.  Es fehlt einfach völlig an spezifischen Angeboten.
+Nein, absolut nicht. Es gibt gute Initiativen, zum Beispiel die Milchjugend, die regelmässig einmal im Monat in Bern die Milchbar organisiert. Das finde ich mega wichtige Treffpunkte um andere queere Menschen kennenzulernen und das Selbstbewusstsein zu stärken. Für queere Jugendliche, die sich beispielsweise outen und von ihren Eltern deshalb nicht mehr akzeptiert werden, gibt es kaum Unterschlupfmöglichkeiten, wo sie schnell mal paar Wochen unterkommen könnten, um das Ganze etwas setzen zu lassen und es später wieder zu versuchen. Es fehlt einfach völlig an spezifischen Angeboten.
 
 **Zu aller Letzt noch, haben Sie einen konkreten Wunsch an die Community in Bern oder an nicht - queere Menschen, was sie für die queere Community tun könnten?**
 
