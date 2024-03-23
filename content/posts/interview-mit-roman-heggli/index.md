@@ -2,7 +2,7 @@
 title = "Nach der Ehe für Alle alles erreicht? Ein Interview mit Roman Heggli"
 date = "2024-03-21"
 draft = false
-pinned = true
+pinned = false
 tags = ["LGBTQAI+", "Pride", "Gesellschaft"]
 image = "cecilie-johnsen-g8cxfhkupdu-unsplash-1-.jpg"
 description = ""
