@@ -1,7 +1,7 @@
 +++
 title = "Interview mit Roman Heggli"
 date = "2024-03-21"
-draft = true
+draft = false
 pinned = false
 tags = ["LGBTQAI+", "Pride", "Gesellschaft"]
 +++
