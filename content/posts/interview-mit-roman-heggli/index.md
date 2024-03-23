@@ -1,5 +1,5 @@
 +++
-title = "Nach der Ehe für Alle alles erreicht? Ein Interview mit Roman Heggli. "
+title = "Nach der Ehe für Alle alles erreicht? Ein Interview mit Roman Heggli"
 date = "2024-03-21"
 draft = false
 pinned = false
