@@ -1,6 +1,6 @@
 +++
 title = "Nach der Ehe für Alle alles erreicht? Ein Interview mit Roman Heggli"
-date = "2024-03-21"
+date = "2024-03-23"
 draft = false
 pinned = false
 tags = ["LGBTQAI+", "Pride", "Gesellschaft"]
