@@ -13,6 +13,12 @@ Roman ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Gesch
 
 {{</lead>}}
 
+
+
+*Mirjam Banisch*
+
+
+
 {{<box>}}
 
 * Name: Roman Heggli
