@@ -15,10 +15,14 @@ Roman ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Gesch
 
 *Mirjam Banisch*
 
+{{<box>}}
+
 * Name: Roman Heggli
 * Alter: 33
 * Wohnort: Luzern
 * Beruf: Seit 2018 Geschäftsleiter bei Pink Cross
+
+{{</box>}}
 
 Das Büro von Pink Cross befindet sich im dritten Stock eines alten Gebäudes an der Monbijoustrasse, gleich neben der Tramstation. Es ist ein bescheidenes Büro mit mehreren Räumen, in denen Mitarbeitende von Pink Cross fleissig arbeiteten. Roman und ich sprachen in einem Besprechungsraum mit einem grossen Tisch in der Mitte. An der Wand des Zimmers hängen diverse Plakate und Flyer von Initiativen und Events. Im Stockwerk über uns musizierte jemand, was uns während unserem Gespräch aber nicht störte.
 
