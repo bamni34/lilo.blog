@@ -62,7 +62,7 @@ Ja, wenn ich das so genau wüsste, gell, dann hätten wir es wohl schon gemacht.
 
 **Und wie ist es mit der Sichtbarkeit von queeren Menschen in der Politik und Medien aus der Schweiz? Denken Sie, sie werden gut repräsentiert oder wünschen Sie sich da noch mehr?**
 
-Grundsätzlich haben wir eine grosse Sichtbarkeit in den letzten Jahren erreicht, was jetzt aber wieder deutlich abgenommen hat. Queere Lebensweisen werden mit viel Stärke in Frage gestellt, es gibt jetzt fast jeden Sonntag irgendwelche transfeindliche Artikel in den Zeitungen, diese negative Sichtbarkeit wollen wir natürlich nicht. Sonst finde ich die Repräsentanz so naja. Wir sind da, wir sind irgendwo sichtbar, inzwischen gibt es in fast allen Feldern auch wenigsten schwule Vorbilder, zum Beispiel im Profifussball. Aber es ist immer noch sehr eingeschränkt, es ist die Vielfalt der Community, die nicht sichtbar ist.
+Grundsätzlich haben wir eine grosse Sichtbarkeit in den letzten Jahren erreicht, was jetzt aber wieder deutlich abgenommen hat. Queere Lebensweisen werden mit viel Stärke in Frage gestellt, es gibt jetzt fast jeden Sonntag irgendwelche transfeindliche Artikel in den Zeitungen, diese negative Sichtbarkeit wollen wir natürlich nicht. Sonst finde ich die Repräsentanz so naja. Wir sind da, wir sind irgendwo sichtbar, inzwischen gibt es in fast allen Feldern auch wenigsten schwule Vorbilder, zum Beispiel im Profifussball, aber es ist immer noch sehr eingeschränkt.
 
 **Was denken Sie über die Repräsentation von queeren Jugendlichen in Bern? Gibt es ausreichende Unterstützungssysteme oder Ressourcen für sie?**
 
