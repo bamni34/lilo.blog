@@ -3,7 +3,7 @@ title = "Nach der Ehe für Alle alles erreicht? Ein Interview mit Roman Heggli"
 date = "2024-03-23"
 draft = false
 pinned = false
-tags = ["LGBTQAI+", "Pride", "Gesellschaft"]
+tags = ["LGBTQAI", "Pride", "Gesellschaft"]
 image = "cecilie-johnsen-g8cxfhkupdu-unsplash-1-.jpg"
 description = ""
 +++
@@ -38,7 +38,7 @@ Pink Cross ist jetzt gut 30 Jahre alt und die Ehe für Alle war schon seit Anfan
 
 > "Der Druck muss von der Gesellschaft kommen, sonst bewegt sich die Politik nicht."
 >
-> \-Roman Heggli
+> *Roman Heggli*
 
 **Wie hat sich Pink Cross für die Ehe für Alle beteiligt? Haben Sie Demos veranstaltet, oder Artikel veröffentlicht?**
 
@@ -58,7 +58,7 @@ Ja, wenn ich das so genau wüsste, gell, dann hätten wir es wohl schon gemacht.
 
 > "Es ist die Vielfalt der Community, die nicht sichtbar ist."
 >
-> \-Roman Heggli
+> *Roman Heggli*
 
 **Und wie ist es mit der Sichtbarkeit von queeren Menschen in der Politik und Medien aus der Schweiz? Denken Sie, sie werden gut repräsentiert oder wünschen Sie sich da noch mehr?**
 
