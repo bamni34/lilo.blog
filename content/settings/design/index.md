@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/bryan-dijkhuizen-ebbolcwpjso-unsplash-1-.jpg"
+image = "/media/marc-pell-owrvjfqiway-unsplash-3-.jpg"
 color = "#dbd7d2"
 +++
