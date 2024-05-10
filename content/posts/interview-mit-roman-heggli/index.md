@@ -1,6 +1,6 @@
 +++
-title = "Nach der Ehe für Alle alles erreicht?"
-date = "2024-05-08"
+title = "Wie es der LGBTQAI+ Community nach der Ehe für Alle Initiative geht; ein Interview mit Roman Heggli"
+date = "2024-05-10"
 draft = false
 pinned = false
 tags = ["LGBTQAI", "Pride", "Gesellschaft"]
@@ -9,7 +9,7 @@ description = ""
 +++
 {{<lead>}}
 
-Roman ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Geschäftsleiter bei Pink Cross, die Schweizer Dachorganisation für homosexuelle und bisexuelle Männer. In diesem Interview erzählt er über die allgemeine Lage bezüglich der Akzeptanz gegenüber queeren Menschen in der Schweiz und was er sich für die Community in Zukunft wünscht.
+Roman Heggli ist Geschäftsleiter bei Pink Cross, die Schweizer Dachorganisation für homosexuelle und bisexuelle Männer. In diesem Interview erzählt er über die allgemeine Lage bezüglich der Akzeptanz gegenüber queeren Menschen in der Schweiz und was er sich für die Community in Zukunft wünscht.
 
 {{</lead>}}
 
@@ -17,14 +17,11 @@ Roman ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Gesch
 
 {{<box>}}
 
-* Name: Roman Heggli
-* Alter: 33
-* Wohnort: Luzern
-* Beruf: Seit 2018 Geschäftsleiter bei Pink Cross
+Roman Heggli ist 33 Jahre alt, wohnt in Luzern und arbeitet seit 2018 in Bern als Geschäftsleiter bei Pink Cross.
 
 {{</box>}}
 
-Das Büro von Pink Cross befindet sich im dritten Stock eines alten Gebäudes an der Monbijoustrasse, gleich neben der Tramstation. Es ist ein bescheidenes Büro mit mehreren Räumen, in denen Mitarbeitende von Pink Cross fleissig arbeiten. Roman und ich sprechen in einem Besprechungsraum mit einem grossen Tisch in der Mitte. An der Wand des Zimmers hängen diverse Plakate und Flyer von Initiativen und Events. Im Stockwerk über uns musiziert jemand, was uns während unserem Gespräch aber nicht stört.
+Das Büro von Pink Cross befindet sich im dritten Stock eines alten Gebäudes an der Monbijoustrasse, gleich neben der Tramstation. Es ist ein bescheidenes Büro mit mehreren Räumen, in denen Mitarbeitende von Pink Cross fleissig arbeiten. Hinter einer Tür im Büro liegt ein Besprechungsraum mit einem grossen Tisch und Stühlen in der Mitte. An der Wand des Zimmers hängen diverse Plakate und Flyer von Initiativen und Events. Im Stockwerk oben an hört man, wie jemand musiziert. 
 
 ![Roman Heggli, im Besprechungsraum vor einem Poster für den Diskriminierungschutz. ](microsoftteams-image-12-.png)
 
