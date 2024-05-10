@@ -1,5 +1,5 @@
 +++
-title = "Wie es der LGBTQAI+ Community nach der Ehe für Alle Initiative geht; ein Interview mit Roman Heggli."
+title = "Hat die LGBTQAI+ Community der Schweiz nach der Ehe für Alle Initiative alles erreicht?"
 date = "2024-05-10"
 draft = false
 pinned = false
