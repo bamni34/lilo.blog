@@ -51,7 +51,7 @@ Solche Abstimmungen oder Kampagnen sind immer etwas zweischneidig. Einerseits is
 
 **Denken Sie, es könnten irgendwelche konkreten Massnahmen ergriffen werden, um die LGBTQ+ Community von dieser Intoleranz besser zu schützen?**
 
-Ja, wenn ich das so genau wüsste, dann hätten wir es wohl schon gemacht. Also bei den Schulen ansetzen wäre auf jeden Fall etwas vom Wichtigsten. Wir arbeiten gerade auch an einem Zivilcourage-Projekt, was wir von den Leuten auch wirklich fördern möchten. Es ist wichtig, dass wir immer wieder aufs Tapet bringen, dass wir alle brauchen, und sie auch in die Verantwortung nehmen. Ausserdem braucht es auch staatliche Massnahmen, beispielsweise braucht es noch einen Diskriminierungsschutz am Arbeitsplatz für Lesben, Schwule und Bisexuelle. Und schlussendlich sind Konversionstherapien oder Homoheilungen, mit dem Ziel, sexuelle Orientierungen oder Geschlechtsidentitäten zu heilen, immer noch erlaubt. Das zeigt, dass wir als Gesellschaft das alles immer noch als etwas Komisches ansehen, und daher wird die Akzeptanz auch nicht besser.
+Ja, wenn ich das so genau wüsste, dann hätten wir es wohl schon gemacht. Also bei den Schulen ansetzen wäre auf jeden Fall etwas vom Wichtigsten. Wir arbeiten gerade auch an einem Zivilcourage-Projekt, diese Zivilcourage möchten wir von den Leuten auch wirklich fördern. Es ist wichtig, dass wir immer wieder aufs Tapet bringen, dass wir alle brauchen, und sie auch in die Verantwortung nehmen. Ausserdem braucht es auch staatliche Massnahmen, beispielsweise braucht es noch einen Diskriminierungsschutz am Arbeitsplatz für Lesben, Schwule und Bisexuelle. Und schlussendlich sind Konversionstherapien oder Homoheilungen, mit dem Ziel, sexuelle Orientierungen oder Geschlechtsidentitäten zu heilen, immer noch erlaubt. Das zeigt, dass wir als Gesellschaft das alles immer noch als etwas Komisches ansehen, und daher wird die Akzeptanz auch nicht besser.
 
 > "Es ist die Vielfalt der Community, die nicht sichtbar ist."
 >
@@ -59,7 +59,7 @@ Ja, wenn ich das so genau wüsste, dann hätten wir es wohl schon gemacht. Also 
 
 **Und wie ist es mit der Sichtbarkeit von queeren Menschen in der Politik und Medien aus der Schweiz? Denken Sie, Sie werden gut repräsentiert oder wünschen Sie sich da noch mehr?**
 
-Grundsätzlich haben wir eine grosse Sichtbarkeit in den letzten Jahren erreicht, was jetzt aber wieder deutlich abgenommen hat. Queere Lebensweisen werden mit viel Stärke in Frage gestellt, es gibt jetzt fast jeden Sonntag irgendwelche transfeindliche Artikel in den Zeitungen, diese negative Sichtbarkeit wollen wir natürlich nicht. Sonst finde ich die Repräsentanz so naja. Wir sind da, wir sind irgendwo sichtbar, inzwischen gibt es in fast allen Feldern auch wenigsten schwule Vorbilder, zum Beispiel im Profifussball, aber es ist immer noch sehr eingeschränkt.
+Grundsätzlich haben wir eine grosse Sichtbarkeit in den letzten Jahren erreicht, was jetzt aber wieder deutlich abgenommen hat. Queere Lebensweisen werden mit viel Stärke in Frage gestellt, es gibt jetzt fast jeden Sonntag irgendwelche transfeindliche Artikel in den Zeitungen, diese negative Sichtbarkeit wollen wir natürlich nicht. Sonst finde ich die Repräsentanz mässig Wir sind da, wir sind irgendwo sichtbar, inzwischen gibt es in fast allen Feldern auch wenigsten schwule Vorbilder, zum Beispiel im Profifussball, aber es ist immer noch sehr eingeschränkt.
 
 **Was denken Sie über die Repräsentation von queeren Jugendlichen in Bern? Gibt es ausreichende Unterstützungssysteme oder Ressourcen für sie?**
 
