@@ -13,7 +13,7 @@ Roman Heggli ist Geschäftsleiter bei Pink Cross, die Schweizer Dachorganisation
 
 {{</lead>}}
 
-*Mirjam Banisch*
+
 
 {{<box>}}
 
