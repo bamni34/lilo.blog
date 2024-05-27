@@ -6,7 +6,11 @@ pinned = false
 +++
 Der Kampf um Gerechtigkeit geht weiter. Seit Jahrzehnten lässt sich die LGBTQAI+ Community weltweit in ihrem Protest gegen Diskriminierung nicht unterkriegen, doch die Gesellschaft um sie herum macht es ihnen nicht immer leicht. Auch im Kanton Bern und in der ganzen Schweiz müssen sich queere Menschen mit ihrem Alltag auseinandersetzen, obwohl die Schweiz, vor allem nach der Annahme der Initiative Ehe für alle, in diesem Bereich eigentlich einen guten Ruf hat.
 
+{{<box>}}
 
+
+
+{{</box>}}
 
 Auf der Monbijoustrasse rattert ein Tram vorbei, ein kurzer, aber heftiger Windstoß. Es ist ein warmer, sonniger Tag und ich bin auf dem Weg zu Roman Heggli, dem Geschäftsleiter von Pink Cross, der Schweizer Dachorganisation für schwule und bisexuelle Männer. Auf der bunt geschmückten Fensterbank des Pink-Cross-Büros flattern Regenbogenfähnchen im Wind und lächeln auf den Gehsteig. Das Büro von Pink Cross ist klein und bescheiden. Roman empfängt mich am Eingang und führt mich in einen kleinen Besprechungsraum mit einem Tisch und Stühlen in der Mitte. An den Wänden hängen Plakate von Initiativen und Flyer. Im Fenster sieht man wieder die wehenden Regenbogenfahnen.` Hier interviewe ich Roman zu seiner Meinung und Wahrnehmung bezüglich der Akzeptanz von LGBTQAI+ Menschen in Bern`
 
