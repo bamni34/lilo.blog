@@ -1,18 +1,19 @@
 +++
 title = "Die Gay Community der Schweiz darf endlich heiraten, hat sie jetzt alles erreicht?"
 date = "2024-05-27"
-draft = true
+draft = false
 pinned = false
+image = "viviana-couto-sayalero-ccie19huu4-unsplash.jpg"
 +++
 Der Kampf um Gerechtigkeit geht weiter. Seit Jahrzehnten lässt sich die LGBTQAI+ Community weltweit in ihrem Protest gegen Diskriminierung nicht unterkriegen, doch die Gesellschaft um sie herum macht es ihnen nicht immer leicht. Auch im Kanton Bern und in der ganzen Schweiz müssen sich queere Menschen mit ihrem Alltag auseinandersetzen, obwohl die Schweiz, vor allem nach der Annahme der Initiative Ehe für alle, in diesem Bereich eigentlich einen guten Ruf hat.
 
 {{<box>}}
 
-
+Im September 2021 wurde unteranderem für die 'Ehe für Alle' - Initiative im Parlament abgestimmt. Mit sich brachte diese Initiative das Ziel, die Heirat für gleichgeschlechtige Paare schweizweit zu legalisieren, sowie den Zugang zu Adoption und der Samenspende. Nach einer klaren Übereinstimmung der Stimmberechtigten wurde die Ehe für Alle bei der Volksabstimmung vom 26. September 2021 angenommen. Gleichgeschlechtige Paare konnten folglich ab dem 1. Juli 2022 heiraten, oder ihre eingetragene Partnerschaft in eine Ehe umwandeln. Eine Organisation, die diese Initiative schon Jahrzehntelang in Kraft setzen wollte, ist Pink Cross, die nationale Dachorganisation für schwule und bisexuelle Männer. 
 
 {{</box>}}
 
-Auf der Monbijoustrasse rattert ein Tram vorbei, ein kurzer, aber heftiger Windstoß. Es ist ein warmer, sonniger Tag und ich bin auf dem Weg zu Roman Heggli, dem Geschäftsleiter von Pink Cross, der Schweizer Dachorganisation für schwule und bisexuelle Männer. Auf der bunt geschmückten Fensterbank des Pink-Cross-Büros flattern Regenbogenfähnchen im Wind und lächeln auf den Gehsteig. Das Büro von Pink Cross ist klein und bescheiden. Roman empfängt mich am Eingang und führt mich in einen kleinen Besprechungsraum mit einem Tisch und Stühlen in der Mitte. An den Wänden hängen Plakate von Initiativen und Flyer. Im Fenster sieht man wieder die wehenden Regenbogenfahnen.` Hier interviewe ich Roman zu seiner Meinung und Wahrnehmung bezüglich der Akzeptanz von LGBTQAI+ Menschen in Bern`
+Auf der Monbijoustrasse rattert ein Tram vorbei, ein kurzer, aber heftiger Windstoß. Es ist ein warmer, sonniger Tag und ich bin auf dem Weg zu Roman Heggli, dem Geschäftsleiter von Pink Cross, der Schweizer Dachorganisation für schwule und bisexuelle Männer. Auf der bunt geschmückten Fensterbank des Pink-Cross-Büros flattern Regenbogenfähnchen im Wind und lächeln auf den Gehsteig. Das Büro von Pink Cross ist klein und bescheiden. Roman empfängt mich am Eingang und führt mich in einen kleinen Besprechungsraum mit einem Tisch und Stühlen in der Mitte. An den Wänden hängen Plakate von Initiativen und Flyer. Im Fenster sieht man wieder die wehenden Regenbogenfahnen. Roman schildert seine Gefühle und Wahrnehmungen bezüglich der LGBTQAI+ Akzeptanz in Bern. 
 
 Die Dachorganisation Pink Cross ist die nationale Interessenvertretung der Schwulen und Bisexuellen Männer in der Schweiz. Mit seinen 2500 Einzelmitgliedern und angeschlossenen Organisationen setzt sich Pink Cross seit 31 Jahren für die Gay-Community in der Schweiz ein, sei es auf politischer oder gesellschaftlicher Ebene. Ihr Ziel - die Verbesserung der rechtlichen und gesellschaftlichen Akzeptanz von Homosexuellen. Seit der Gründung setzt sich Pink Cross vor allem für den Diskriminierungsschutz von Lesben, Schwulen und Bisexuellen und für die Ehe für alle ein. Die Ehe für Alle-Initiative, welche die gleichgeschlechtliche Ehe ermöglichen soll, wird nach einem harten Kampf am 26. September 2021 angenommen. 
 
