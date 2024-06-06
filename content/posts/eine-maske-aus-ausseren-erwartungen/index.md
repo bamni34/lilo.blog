@@ -3,7 +3,7 @@ title = "Eine Maske aus äusseren Erwartungen"
 date = "2024-06-06"
 draft = false
 pinned = false
-tags = ["Poetry", "Slam"]
+tags = ["Poetry", "Slam", "Maske", "Autismus"]
 image = "tamara-gak-1vzaezbeadw-unsplash-1-.jpg"
 +++
 In einer Welt so laut und dicht,\
