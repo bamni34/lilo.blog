@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/marc-pell-owrvjfqiway-unsplash-3-.jpg"
+image = "/media/mick-haupt-_kxxllpnkec-unsplash-2-.jpg"
 color = "#dbd7d2"
 +++
