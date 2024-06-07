@@ -192,7 +192,9 @@ wo meine Seele liegt.\
 \
 Sie spricht von Obsttorten,\
 \
-von Orten, wo nur mein Wille siegt.\
+von Orten, wo nur mein Wille siegt.
+
+\
 \
 Die Sehnsucht nach dem Echten,\
 \
