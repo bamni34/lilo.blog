@@ -25,10 +25,14 @@ Laut Roman Heggli ist die Akzeptanz gegenüber der LGBTQAI+ Community in der Sch
 Aber ab dem 1. Juli 2022 darf jedes schwule und lesbische Paar heiraten, ein Riesenfortschritt in der LGBTQ+ Geschichte der Schweiz. Wie kommt es dann zu dieser sinkenden Akzeptanz? Roman Heggli erklärt, dass die negativen Stimmen in solchen Kampagnen einen sehr starken Einfluss auf die Menschen haben. Bereits queerfeindliche Meinungen werden verstärkt und ermutigen andere, ihre negativen Vorurteile zu äußern. So ist Roman Heggli der Meinung, dass die Akzeptanz nach der Initiative "Ehe für alle" deutlich abgenommen hat.
 
 > "Der Druck muss von der Gesellschaft kommen, sonst bewegt sich die Politik nicht."
+>
+> \-Roman Heggli
 
 Diese Intoleranz gegenüber nicht-heteronormativen Lebensweisen, die es schon immer gab, ist leider auch schwer zu bekämpfen. Um die gesellschaftliche Akzeptanz zu stärken, müssen alle an möglichst vielen Stellen ansetzen und mithelfen. Vor allem in den Schulen anzusetzen, wäre etwas Wichtiges. Noch immer fehlt ein konkreter Diskriminierungsschutz für Lesben, Schwule und Bisexuelle am Arbeitsplatz, und noch immer werden so genannte ‘Homoheilungen’ oder Konversionstherapien durchgeführt. Ziel dieser ‘Therapie’ ist es, eine Person von ihrer sexuellen Orientierung oder Geschlechtsidentität zu ‘heilen’. Das Schweizer Parlament weigert sich nach wie vor, diese Therapien landesweit zu verbieten. Solche Diskriminierungen zeigen, dass wir als Gesellschaft noch viel tun müssen, um die Akzeptanz zu verbessern.
 
 > "Es ist die Vielfalt der Community, die nicht sichtbar ist."
+>
+> \-Roman Heggli
 
 Queere Lebensweisen werden stark hinterfragt, und um wirklich voranzukommen, muss die Community erst wirklich sichtbar werden. In vielen Bereichen gibt es bereits zumindest schwule Vorbilder, z.B. im Profifußball. Dass es die LGBTQAI+ Community gibt, weiß mittlerweile fast jeder, aber wie vielfältig die Community sein kann, ist noch nicht allen bekannt, bedauert Roman Heggli. Es gibt einen deutlichen Mangel an Ressourcen und Zufluchtsorten für queere Menschen, vor allem für Jugendliche. Es gibt kaum Anlaufstellen für queere Jugendliche, die zum Beispiel nach einem Outing von ihrer Familie nicht akzeptiert werden. Es gibt zwar einige Initiativen wie die Milchjugend, die größte Jugendorganisation für queere Menschen, die in Bern monatliche Treffpunkte organisiert, aber ansonsten fehlt es völlig an Angeboten.
 
