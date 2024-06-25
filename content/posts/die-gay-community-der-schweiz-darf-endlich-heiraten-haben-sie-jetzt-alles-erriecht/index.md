@@ -36,7 +36,7 @@ Aber ab dem 1. Juli 2022 darf jedes schwule und lesbische Paar heiraten, ein Rie
 
 Diese Intoleranz gegenüber nicht-heteronormativen Lebensweisen, die es schon immer gab, ist leider auch schwer zu bekämpfen. Um die gesellschaftliche Akzeptanz zu stärken, müssen alle an möglichst vielen Stellen ansetzen und mithelfen. Vor allem in den Schulen anzusetzen, wäre etwas Wichtiges. Noch immer fehlt ein konkreter Diskriminierungsschutz für Lesben, Schwule und Bisexuelle am Arbeitsplatz, und noch immer werden sogenannte ‘Homoheilungen’ oder Konversionstherapien durchgeführt. Ziel dieser ‘Therapie’ ist es, eine Person von ihrer sexuellen Orientierung oder Geschlechtsidentität zu ‘heilen’. Das Schweizer Parlament weigert sich nach wie vor, diese Therapien landesweit zu verbieten. Solche Diskriminierungen zeigen, dass die Gesellschaft noch viel tun muss, um die Akzeptanz zu verbessern.
 
-**Die vielfältigen Farben der Community**
+**Die vielen Farben der Community**
 
 > "Es ist die Vielfalt der Community, die nicht sichtbar ist."
 >
